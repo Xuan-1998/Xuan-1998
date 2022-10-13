@@ -1,7 +1,7 @@
 # Xuan Jiang
 Hey there! My name is Xuan, I‘m studying Transportation Engineering and Computer Science at the University of California, Berkeley. 
 
-And I'm a Graduate Student Researcher at Lawrence Berkeley Lab. I'm also serving as Member of Transportation Research Board: National Academies of Sciences, Engineering, and Medicine. 
+And I'm a Graduate Student Researcher at Lawrence Berkeley Lab. I'm also serving as Member of Transportation Research Board: National Academies of Sciences, Engineering, and Medicine. Last but not least, I'm a dancer @AFX at UCB
 
 ## Links
 <p align="center">
