@@ -5,7 +5,7 @@
 - 🚀 I‘m studying Transportation Engineering and Computer Science at the University of California, Berkeley as a PhD. 
 - 🍀 I'm also serving as Member of Transportation Research Board: National Academies of Sciences, Engineering, and Medicine
 - 💞️ I’m looking to collaborate on ...Anything AMAZING Distributed ML, Parallel Computation, ML, DL, CV, NLP, RL, simulation, UAM. etc.
-- 📫 How to reach me: my email address is xuanjiang@lbl.gov
+- 📫 How to reach me: my email address is xuanjiang@berkeley.edu
 
 ## Links
 <p align="center">
