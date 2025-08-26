@@ -5,7 +5,7 @@
 - 🌪️ I'm a Software Engineer at Google.
 - 🚀 I'm a reviewer for different ML/AI-related conferences.
 - 💞️ I'm looking to collaborate on LLMs, multi-modal AI, agent frameworks, LLM finetuning/posttraining, and next-gen AI applications.
-- 📫 How to reach me: my email address is xuanjiang@berkeley.edu
+- 📫 How to reach me: my email address is xuanj@mit.edu
 
 ## Links
 <p align="center">
