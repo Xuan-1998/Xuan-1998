@@ -3,7 +3,7 @@
 - 👋 Hi, I'm Xuan Jiang!
 - 👀 I'm interested in LLM finetuning, post-training, multi-modal AI, agentic workflows, and distributed machine learning systems.
 - 🌪️ I'm a Software Engineer at Google.
-- 🚀 I'm reviewer for different ML/AI related conferences.
+- 🚀 I'm a reviewer for different ML/AI-related conferences.
 - 💞️ I'm looking to collaborate on LLMs, multi-modal AI, agent frameworks, LLM finetuning/posttraining, and next-gen AI applications.
 - 📫 How to reach me: my email address is xuanjiang@berkeley.edu
 
