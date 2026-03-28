@@ -42,11 +42,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xuan-1998/Xuan-1998/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xuan-1998/Xuan-1998/output/github-contribution-grid-snake.svg" />
-  <img alt="contributions" src="https://raw.githubusercontent.com/Xuan-1998/Xuan-1998/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/Xuan-1998/Xuan-1998/main/assets/constellation.svg" alt="constellation" width="100%" />
 
 </div>
 
