@@ -17,29 +17,23 @@
 <br/>
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="160"><b>HPC</b></td>
-<td align="center" width="160"><b>RDMA / EFA</b></td>
-<td align="center" width="160"><b>GPU Networking</b></td>
-<td align="center" width="160"><b>NCCL</b></td>
-<td align="center" width="160"><b>CUDA</b></td>
-</tr>
-<tr>
-<td align="center">MoE</td>
-<td align="center">Distributed Training</td>
-<td align="center">NVSHMEM</td>
-<td align="center">libfabric</td>
-<td align="center">DeepSpeed</td>
-</tr>
-<tr>
-<td align="center">C / C++</td>
-<td align="center">Python</td>
-<td align="center">PyTorch</td>
-<td align="center">Megatron</td>
-<td align="center">AWS</td>
-</tr>
-</table>
+
+![HPC](https://img.shields.io/badge/HPC-667eea?style=for-the-badge&logoColor=white)
+![RDMA/EFA](https://img.shields.io/badge/RDMA%2FEFA-764ba2?style=for-the-badge&logoColor=white)
+![GPU Networking](https://img.shields.io/badge/GPU%20Networking-667eea?style=for-the-badge&logo=nvidia&logoColor=white)
+![NCCL](https://img.shields.io/badge/NCCL-764ba2?style=for-the-badge&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-667eea?style=for-the-badge&logo=nvidia&logoColor=white)
+![MoE](https://img.shields.io/badge/MoE-764ba2?style=for-the-badge&logoColor=white)
+![Distributed Training](https://img.shields.io/badge/Distributed%20Training-667eea?style=for-the-badge&logoColor=white)
+![NVSHMEM](https://img.shields.io/badge/NVSHMEM-764ba2?style=for-the-badge&logoColor=white)
+![libfabric](https://img.shields.io/badge/libfabric-667eea?style=for-the-badge&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC++-764ba2?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-667eea?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-764ba2?style=for-the-badge&logo=pytorch&logoColor=white)
+![DeepSpeed](https://img.shields.io/badge/DeepSpeed-667eea?style=for-the-badge&logoColor=white)
+![Megatron](https://img.shields.io/badge/Megatron-764ba2?style=for-the-badge&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-667eea?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 </div>
 
 <br/>
