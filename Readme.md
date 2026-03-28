@@ -1,19 +1,8 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ██╗  ██╗██╗   ██╗ █████╗ ███╗   ██╗     ██╗██╗ █████╗ ███╗   ██╗ ██████╗  ║
-║   ╚██╗██╔╝██║   ██║██╔══██╗████╗  ██║     ██║██║██╔══██╗████╗  ██║██╔════╝  ║
-║    ╚███╔╝ ██║   ██║███████║██╔██╗ ██║     ██║██║███████║██╔██╗ ██║██║  ███╗  ║
-║    ██╔██╗ ██║   ██║██╔══██║██║╚██╗██║██   ██║██║██╔══██║██║╚██╗██║██║   ██║  ║
-║   ██╔╝ ██╗╚██████╔╝██║  ██║██║ ╚████║╚█████╔╝██║██║  ██║██║ ╚████║╚██████╔╝  ║
-║   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝   ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=220&section=header&text=XUAN%20JIANG&fontSize=60&fontColor=00FF41&fontAlignY=35&desc=⟨%20SYSTEM%20ONLINE%20⟩&descSize=16&descColor=00FF41&descAlignY=55&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+Sr.+HPC%2FAI+Engineer+%40+AWS+Annapurna+Labs;%3E+Research+Affiliate+%40+MIT;%3E+PhD+%40+UC+Berkeley;%3E+Ex-Googler+%7C+Ex-LBNL;%3E+Building+the+future+of+distributed+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=%3E+Sr.+HPC%2FAI+Engineer+%40+AWS+Annapurna+Labs;%3E+Research+Affiliate+%40+MIT;%3E+PhD+%40+UC+Berkeley;%3E+Ex-Googler+%7C+Ex-LBNL;%3E+Building+the+future+of+distributed+AI" alt="Typing SVG" />
 
 </div>
 
