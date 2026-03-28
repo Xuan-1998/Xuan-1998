@@ -1,77 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=220&section=header&text=XUAN%20JIANG&fontSize=60&fontColor=00FF41&fontAlignY=35&desc=⟨%20SYSTEM%20ONLINE%20⟩&descSize=16&descColor=00FF41&descAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Xuan%20Jiang&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=Sr.%20HPC%2FAI%20Engineer%20%E2%80%A2%20AWS%20Annapurna%20Labs&descSize=18&descColor=ffffffcc&descAlignY=55&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=%3E+Sr.+HPC%2FAI+Engineer+%40+AWS+Annapurna+Labs;%3E+Research+Affiliate+%40+MIT;%3E+PhD+%40+UC+Berkeley;%3E+Ex-Googler+%7C+Ex-LBNL;%3E+Building+the+future+of+distributed+AI" alt="Typing SVG" />
+<br/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=20&duration=3000&pause=1500&color=667eea&center=true&vCenter=true&width=500&lines=Research+Affiliate+%40+MIT;PhD+%40+UC+Berkeley;Ex-Googler+%7C+Ex-LBNL;Distributed+AI+%C2%B7+GPU+Networking+%C2%B7+MoE" alt="Typing SVG" />
 
----
+<br/><br/>
 
-```console
-xuan@annapurna:~$ cat /etc/mission.conf
-```
-
-```yaml
-OPERATOR:       Xuan Jiang
-CLEARANCE:      L5 — FULL SYSTEM ACCESS
-AFFILIATION:    [ AWS Annapurna Labs | MIT | UC Berkeley ]
-SPECIALIZATION: HPC/AI Systems, GPU Networking, MoE Distributed Training
-STATUS:         ██████████████████████ ONLINE
-```
-
----
-
-<div align="center">
-
-### `> SYSTEM CAPABILITIES`
+<a href="mailto:xuanj@mit.edu"><img src="https://img.shields.io/badge/Email-xuanj@mit.edu-667eea?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/xuan-jiang-0494a7192/"><img src="https://img.shields.io/badge/LinkedIn-Xuan%20Jiang-764ba2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://xuan-1998.github.io/"><img src="https://img.shields.io/badge/Website-xuan--1998.github.io-667eea?style=flat-square&logo=safari&logoColor=white" /></a>
 
 </div>
 
+<br/>
+
 <div align="center">
-
-`[ HPC ]` `[ RDMA/EFA ]` `[ GPU Networking ]` `[ NCCL ]` `[ CUDA ]` `[ MoE ]` `[ Distributed Training ]`
-
-`[ C/C++ ]` `[ Python ]` `[ PyTorch ]` `[ DeepSpeed ]` `[ Megatron ]` `[ NVSHMEM ]` `[ libfabric ]`
-
-`[ AWS ]` `[ Linux Kernel ]` `[ Docker ]` `[ Terraform ]` `[ CI/CD ]`
-
+<table>
+<tr>
+<td align="center" width="160"><b>HPC</b></td>
+<td align="center" width="160"><b>RDMA / EFA</b></td>
+<td align="center" width="160"><b>GPU Networking</b></td>
+<td align="center" width="160"><b>NCCL</b></td>
+<td align="center" width="160"><b>CUDA</b></td>
+</tr>
+<tr>
+<td align="center">MoE</td>
+<td align="center">Distributed Training</td>
+<td align="center">NVSHMEM</td>
+<td align="center">libfabric</td>
+<td align="center">DeepSpeed</td>
+</tr>
+<tr>
+<td align="center">C / C++</td>
+<td align="center">Python</td>
+<td align="center">PyTorch</td>
+<td align="center">Megatron</td>
+<td align="center">AWS</td>
+</tr>
+</table>
 </div>
 
----
+<br/>
 
 <div align="center">
-
-### `> NEURAL LINK — CONTRIBUTION FEED`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xuan-1998/Xuan-1998/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xuan-1998/Xuan-1998/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Xuan-1998/Xuan-1998/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Xuan-1998/Xuan-1998/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### `> COMMS CHANNEL`
-
-[![Gmail](https://img.shields.io/badge/TRANSMIT-xuanj@mit.edu-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117)](mailto:xuanj@mit.edu)
-[![LinkedIn](https://img.shields.io/badge/NETWORK-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D1117)](https://www.linkedin.com/in/xuan-jiang-0494a7192/)
-[![Website](https://img.shields.io/badge/PORTAL-Website-00FF41?style=for-the-badge&logo=googlechrome&logoColor=00FF41&labelColor=0D1117)](https://xuan-1998.github.io/)
-
-</div>
-
----
-
-<div align="center">
-
-```
-> CONNECTION TERMINATED. SIGNAL LOST.
-> ...
-> AWAITING NEXT TRANSMISSION ██
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" />
 
 </div>
