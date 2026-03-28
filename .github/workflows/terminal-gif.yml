@@ -1,0 +1,39 @@
+name: Update terminal GIF
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches: [main]
+    paths: [main.py, README.template.md]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Install dependencies
+        run: |
+          sudo apt update && sudo apt install -y ffmpeg
+          pip install git+https://github.com/x0rzavi/github-readme-terminal.git@main
+
+      - name: Generate GIF
+        run: python main.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GIFOS_GENERAL_FPS: 13
+          GIFOS_GENERAL_LOOP_COUNT: 0
+          GIFOS_GENERAL_COLOR_SCHEME: "dracula"
+
+      - name: Push
+        run: |
+          git add README.md output.gif
+          git -c "user.name=bot" -c "user.email=bot@github.com" commit -m "update terminal gif" || true
+          git push
