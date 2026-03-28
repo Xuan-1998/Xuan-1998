@@ -60,7 +60,7 @@ STATUS:         █████████████████████�
 
 [![Gmail](https://img.shields.io/badge/TRANSMIT-xuanj@mit.edu-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117)](mailto:xuanj@mit.edu)
 [![LinkedIn](https://img.shields.io/badge/NETWORK-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D1117)](https://www.linkedin.com/in/xuan-jiang-0494a7192/)
-[![Website](https://img.shields.io/badge/PORTAL-Website-00FF41?style=for-the-badge&logo=googlechrome&logoColor=00FF41&labelColor=0D1117)](https://xuanjiang.me)
+[![Website](https://img.shields.io/badge/PORTAL-Website-00FF41?style=for-the-badge&logo=googlechrome&logoColor=00FF41&labelColor=0D1117)](https://xuan-1998.github.io/)
 
 </div>
 
