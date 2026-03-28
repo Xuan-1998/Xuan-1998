@@ -1,46 +1,88 @@
+<div align="center">
 
-# Xuan Jiang
-- 👋 Hi, I'm Xuan Jiang!
-- 👀 I'm interested in LLM finetuning, post-training, multi-modal AI, agentic workflows, and distributed machine learning systems.
-- 🌪️ I'm a Software Engineer at Google.
-- 🚀 I'm a reviewer for different ML/AI-related conferences.
-- 💞️ I'm looking to collaborate on LLMs, multi-modal AI, agent frameworks, LLM finetuning/posttraining, and next-gen AI applications.
-- 📫 How to reach me: my email address is xuanj@mit.edu
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██╗  ██╗██╗   ██╗ █████╗ ███╗   ██╗     ██╗██╗ █████╗ ███╗   ██╗ ██████╗  ║
+║   ╚██╗██╔╝██║   ██║██╔══██╗████╗  ██║     ██║██║██╔══██╗████╗  ██║██╔════╝  ║
+║    ╚███╔╝ ██║   ██║███████║██╔██╗ ██║     ██║██║███████║██╔██╗ ██║██║  ███╗  ║
+║    ██╔██╗ ██║   ██║██╔══██║██║╚██╗██║██   ██║██║██╔══██║██║╚██╗██║██║   ██║  ║
+║   ██╔╝ ██╗╚██████╔╝██║  ██║██║ ╚████║╚█████╔╝██║██║  ██║██║ ╚████║╚██████╔╝  ║
+║   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝   ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-## Links
-<p align="center">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=xuanj@mit.edu">
-  <img alt="Gmail"
-       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><a href="https://www.linkedin.com/in/xuan-jiang-0494a7192/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+Sr.+HPC%2FAI+Engineer+%40+AWS+Annapurna+Labs;%3E+Research+Affiliate+%40+MIT;%3E+PhD+%40+UC+Berkeley;%3E+Ex-Googler+%7C+Ex-LBNL;%3E+Building+the+future+of+distributed+AI" alt="Typing SVG" />
 
-## Skills
-<p align="center">
-<img src="https://img.shields.io/badge/LLM%20Finetuning-%23FF6F00.svg?&style=for-the-badge&logo=OpenAI&logoColor=white"/>
-<img src="https://img.shields.io/badge/Post--Training-%23ED8B00.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Multi--Modal%20AI-%2300ADD8.svg?&style=for-the-badge&logo=OpenAI&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agent%20Frameworks-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-%2300599C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Transformers-%23150458.svg?&style=for-the-badge&logo=huggingface&logoColor=white"/>
-<img src="https://img.shields.io/badge/Distributed%20Training-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud%20AI-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/CUDA-%2300599C.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>  
+</div>
 
-</p>
+---
 
-<!-- ## Stats
-<p align="center">
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Xuan-1998&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xuan-1998&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-  </p> -->
+```console
+xuan@annapurna:~$ cat /etc/mission.conf
+```
 
+```yaml
+OPERATOR:       Xuan Jiang
+CLEARANCE:      L5 — FULL SYSTEM ACCESS
+AFFILIATION:    [ AWS Annapurna Labs | MIT | UC Berkeley ]
+SPECIALIZATION: HPC/AI Systems, GPU Networking, MoE Distributed Training
+STATUS:         ██████████████████████ ONLINE
+```
+
+---
+
+<div align="center">
+
+### `> SYSTEM CAPABILITIES`
+
+</div>
+
+<div align="center">
+
+`[ HPC ]` `[ RDMA/EFA ]` `[ GPU Networking ]` `[ NCCL ]` `[ CUDA ]` `[ MoE ]` `[ Distributed Training ]`
+
+`[ C/C++ ]` `[ Python ]` `[ PyTorch ]` `[ DeepSpeed ]` `[ Megatron ]` `[ NVSHMEM ]` `[ libfabric ]`
+
+`[ AWS ]` `[ Linux Kernel ]` `[ Docker ]` `[ Terraform ]` `[ CI/CD ]`
+
+</div>
+
+---
+
+<div align="center">
+
+### `> NEURAL LINK — CONTRIBUTION FEED`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xuan-1998/Xuan-1998/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xuan-1998/Xuan-1998/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Xuan-1998/Xuan-1998/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### `> COMMS CHANNEL`
+
+[![Gmail](https://img.shields.io/badge/TRANSMIT-xuanj@mit.edu-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117)](mailto:xuanj@mit.edu)
+[![LinkedIn](https://img.shields.io/badge/NETWORK-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D1117)](https://www.linkedin.com/in/xuan-jiang-0494a7192/)
+[![Website](https://img.shields.io/badge/PORTAL-Website-00FF41?style=for-the-badge&logo=googlechrome&logoColor=00FF41&labelColor=0D1117)](https://xuanjiang.me)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> CONNECTION TERMINATED. SIGNAL LOST.
+> ...
+> AWAITING NEXT TRANSMISSION ██
+```
+
+</div>
