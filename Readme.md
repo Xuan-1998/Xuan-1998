@@ -18,20 +18,22 @@
 
 <div align="center">
 
-![HPC](https://img.shields.io/badge/HPC-667eea?style=for-the-badge&logoColor=white)
-![RDMA/EFA](https://img.shields.io/badge/RDMA%2FEFA-764ba2?style=for-the-badge&logoColor=white)
-![GPU Networking](https://img.shields.io/badge/GPU%20Networking-667eea?style=for-the-badge&logo=nvidia&logoColor=white)
-![NCCL](https://img.shields.io/badge/NCCL-764ba2?style=for-the-badge&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-667eea?style=for-the-badge&logo=nvidia&logoColor=white)
-![MoE](https://img.shields.io/badge/MoE-764ba2?style=for-the-badge&logoColor=white)
-![Distributed Training](https://img.shields.io/badge/Distributed%20Training-667eea?style=for-the-badge&logoColor=white)
-![NVSHMEM](https://img.shields.io/badge/NVSHMEM-764ba2?style=for-the-badge&logoColor=white)
-![libfabric](https://img.shields.io/badge/libfabric-667eea?style=for-the-badge&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC++-764ba2?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-667eea?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-764ba2?style=for-the-badge&logo=pytorch&logoColor=white)
-![DeepSpeed](https://img.shields.io/badge/DeepSpeed-667eea?style=for-the-badge&logoColor=white)
-![Megatron](https://img.shields.io/badge/Megatron-764ba2?style=for-the-badge&logoColor=white)
+![LLM Training](https://img.shields.io/badge/LLM%20Training-667eea?style=for-the-badge&logo=openai&logoColor=white)
+![Distributed Training](https://img.shields.io/badge/Distributed%20Training-764ba2?style=for-the-badge&logoColor=white)
+![MoE](https://img.shields.io/badge/MoE-667eea?style=for-the-badge&logoColor=white)
+![RLHF / Post-Training](https://img.shields.io/badge/RLHF%20%2F%20Post--Training-764ba2?style=for-the-badge&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-667eea?style=for-the-badge&logo=pytorch&logoColor=white)
+![DeepSpeed](https://img.shields.io/badge/DeepSpeed-764ba2?style=for-the-badge&logoColor=white)
+![Megatron](https://img.shields.io/badge/Megatron-667eea?style=for-the-badge&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-764ba2?style=for-the-badge&logo=huggingface&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-667eea?style=for-the-badge&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-764ba2?style=for-the-badge&logo=nvidia&logoColor=white)
+![NCCL](https://img.shields.io/badge/NCCL-667eea?style=for-the-badge&logoColor=white)
+![GPU Networking](https://img.shields.io/badge/GPU%20Networking-764ba2?style=for-the-badge&logo=nvidia&logoColor=white)
+![RDMA / EFA](https://img.shields.io/badge/RDMA%20%2F%20EFA-667eea?style=for-the-badge&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC-764ba2?style=for-the-badge&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC++-667eea?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-764ba2?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-667eea?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
@@ -40,7 +42,11 @@
 
 <div align="center">
 
-<img src="./assets/neural-network.svg" alt="Neural Network" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xuan-1998/Xuan-1998/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xuan-1998/Xuan-1998/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution animation" src="https://raw.githubusercontent.com/Xuan-1998/Xuan-1998/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
