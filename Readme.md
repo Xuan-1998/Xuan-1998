@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+<img src="./assets/neural-network.svg" alt="Neural Network" width="100%" />
 
 </div>
 
