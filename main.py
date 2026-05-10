@@ -1,6 +1,44 @@
+import os
+import urllib.request
+import json as _json
+from collections import defaultdict
 from datetime import datetime
 from zoneinfo import ZoneInfo
 import gifos
+
+
+def compute_top_langs(user):
+    """Aggregate language bytes across all repos (forks included).
+
+    gifos excludes forks, which drops libfabric/aws-ofi-nccl/upstream-to-nvshmem.
+    Jupyter Notebook and Makefile are filtered out as they're vendored artifacts,
+    not languages actively written.
+    """
+    token = os.environ.get("GITHUB_TOKEN", "")
+    headers = {"Accept": "application/vnd.github+json"}
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    ignored = {"Jupyter Notebook", "Makefile"}
+    totals = defaultdict(int)
+    page = 1
+    while True:
+        url = f"https://api.github.com/users/{user}/repos?per_page=100&type=owner&page={page}"
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req) as r:
+            repos = _json.loads(r.read())
+        if not repos:
+            break
+        for repo in repos:
+            lang_url = f"https://api.github.com/repos/{repo['full_name']}/languages"
+            lreq = urllib.request.Request(lang_url, headers=headers)
+            with urllib.request.urlopen(lreq) as r:
+                langs = _json.loads(r.read())
+            for name, size in langs.items():
+                if name in ignored:
+                    continue
+                totals[name] += size
+        page += 1
+    return [n for n, _ in sorted(totals.items(), key=lambda kv: -kv[1])]
 
 def main():
     t = gifos.Terminal(750, 440, 15, 15)
@@ -54,7 +92,7 @@ def main():
     t.gen_typing_text(" -u Xuan-1998", 8, contin=True)
 
     git_stats = gifos.utils.fetch_github_stats("Xuan-1998")
-    top_langs = [l[0] for l in git_stats.languages_sorted]
+    top_langs = compute_top_langs("Xuan-1998")
 
     details = f"""
     \\x1b[30;105mXuan-1998@GitHub\\x1b[0m
