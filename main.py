@@ -110,7 +110,10 @@ def main():
     \\x1b[96mCommits:     \\x1b[93m{git_stats.total_commits_last_year}\\x1b[0m
     \\x1b[96mPRs:         \\x1b[93m{git_stats.total_pull_requests_made}\\x1b[0m
     \\x1b[96mContribs:    \\x1b[93m{git_stats.total_repo_contributions}\\x1b[0m
-    \\x1b[96mTop Langs:   \\x1b[93m{', '.join(top_langs[:5])}\\x1b[0m
+
+    \\x1b[30;105mTop Languages:\\x1b[0m
+    ----------------
+    \\x1b[93m{' · '.join(top_langs[:5])}\\x1b[0m
     """
 
     t.toggle_show_cursor(False)
