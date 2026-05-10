@@ -41,7 +41,7 @@ def compute_top_langs(user):
     return [n for n, _ in sorted(totals.items(), key=lambda kv: -kv[1])]
 
 def main():
-    t = gifos.Terminal(750, 440, 15, 15)
+    t = gifos.Terminal(750, 520, 15, 15)
 
     # BIOS boot
     t.gen_text("", 1, count=15)
